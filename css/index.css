@@ -1,0 +1,15 @@
+header{
+	position: relative;
+	line-height: 29px;
+}
+
+.h-l{
+	position: absolute;
+	left: 8%;
+
+}
+
+.h-r{
+	position: absolute;
+	right: 8%；
+}
